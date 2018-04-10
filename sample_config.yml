@@ -1,0 +1,7 @@
+#This is an example configuration for Fling. 
+
+language: en-US
+
+storage:
+  sql_lite_location: "./"
+  
