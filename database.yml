@@ -1,0 +1,11 @@
+development:
+  dialect: "sqlite3"
+  database: /Users/David/code/go/fling/src/github.com/SeventhProtocol/fling_development.sqlite
+
+test:
+  dialect: "sqlite3"
+  database: /Users/David/code/go/fling/src/github.com/SeventhProtocol/fling_test.sqlite
+
+production:
+  dialect: "sqlite3"
+  database: /Users/David/code/go/fling/src/github.com/SeventhProtocol/fling_production.sqlite
